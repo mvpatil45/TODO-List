@@ -38,7 +38,7 @@ function addTask () {
   
   function doAbout() {
     var name=document.getElementById("divabout");
-    name.innerHTML="This is a simple TODO list created using HTML, CSS, Javascript.To know more visit :";
+    name.innerHTML="This is a simple TODO list created using HTML, CSS, Javascript.To know more visit :https://github.com/mvpatil45/TODO-List";
     // name.className="yellowbackground";
   }
   
